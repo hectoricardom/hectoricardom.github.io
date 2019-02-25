@@ -40,25 +40,53 @@
     {
       "title":"Learn",
       "description":"Are you ready to upgrade your career? Begin your journey with us!",
-      "link":"https://codelouisville.org/learn",
+      "link":"/learn",
       "img":"https://hectoricardom.github.io/img/developer.png",
       "class":""
     },
     {
       "title":"Mentors",
       "description":"Are you a software developer who wants to coach and mentor future developers? Join us!",
-      "link":"https://codelouisville.org/mentor",
+      "link":"/mentor",
       "img":"https://hectoricardom.github.io/img/mentors.png",
       "class":""
     },
     {
       "title":"Be a Part of the Solution!",
       "description":"Looking for junior software talent? Check out our graduates!",
-      "link":"https://codelouisville.org/hire",
+      "link":"/hire",
       "img":"https://hectoricardom.github.io/img/partners.png",
       "class":""
     }
   ],
+  "learn":{
+    "slides":[      
+      {
+        "title":"",
+        "description":["Commit to TWO 12-week sessions with a one month break in between","Session 1: Front-end Web Development [REQUIRED]","Session 2: One of several options in programming languages such as C#, JavaScript, Python, or more"],
+        "class":"mobile-slide-stuff-done"
+      },
+      {
+        "title":"",
+        "description":["Complete 20-30 hours of pre-work issued 45-60 days before your course starts and due 4 weeks after assignment. The pre-work consists of Treehouse courses covering HTML, CSS, and JavaScript. This material will build a foundation of knowledge and also give you enough exposure to see if writing software is for you"],
+        "class":"mobile-slide-share"
+      },
+      {
+        "title":"",
+        "description":["Attend meetups once per week (6:00 - 8:00 pm) at our hosted space in Downtown Louisville (other locations may also be available as space allows)"],
+        "class":"mobile-slide-edit"
+      },
+      {
+        "title":"",
+        "description":["During the course you will complete an online curriculum through Treehouse, attend tech events around town, attend class meetups, and build a project"],
+        "class":"mobile-slide-chat"
+      },
+      {
+        "title":"",
+        "description":["Build a project that demonstrates your knowledge by the end of Week 12"],
+        "class":"mobile-slide-edit"
+      }
+    ],
   "faq":[
     {
       "question":"How much time is needed?",
@@ -110,5 +138,85 @@
       "color":"#42a5f5"
     }
   ]
-
+},
+"mentor":{
+  "slides":[      
+    {
+      "title":"What is a mentor?",
+      "description":["Software developers working in the industry","Volunteers who are responsive, humble, collaborative, and committed","Skilled in the track for which they mentor"],
+      "class":""
+    },
+    {
+      "title":"What does it take to be a mentor?",
+      "description":["Prepare by becoming familiar with Treehouse","Adhere to the Code of Conduct","Attend and be involved with a weekly in-person meetup (6:00 - 8:00 pm)","Virtually mentor on Slack"],
+      "class":""
+    }
+  ],
+  "faq":[
+    {
+      "question":"My employer has a community engagement program. Can I track my volunteer hours?",
+      "description":"Yes! We'd be happy to verify your volunteer hours while mentoring!",
+      "link":"https://codelouisville.org/mentor#questions",
+      "icon":"time",
+      "class":"time_needed",
+      "color":"#7e57c2"
+    },
+    {
+      "question":"Are your mentors paid?",
+      "description":"Nope. Every one of our mentors has chosen to volunteer their time. Why would they do that? Two reasons: they’re really passionate about software development and they’re just awesome people.",
+      "link":"https://codelouisville.org/mentor#questions",
+      "icon":"money",
+      "class":"pricing",
+      "color":"#e91e63"
+    }
+  ]
+},
+"hire":{
+  "slides":[      
+    {
+      "title":"Be a part of the solution!",
+      "description":["Code Louisville aims to build software talent in the Louisville/Southern Indiana region. Through a series of 12-week sessions, Code Louisville fuses comprehensive online training, through Treehouse, with weekly in-person, mentor-driven sessions to cultivate the next generation of software developers."],
+      "class":""
+    },
+    {
+      "title":"As employers, you have an opportunity to:",
+      "description":["Mentor: Encourage members of your development team to mentor a Code Louisville cohort.","Partner: Let us know what training and skills are required to meet your needs. Help make Code Louisville better!","Hire: Bring on Code Louisville graduates as contractors, interns or full-time employees."],
+      "class":""
+    }
+  ],
+  "faq":[
+    {
+      "question":"How can I hire a Code Louisville graduate?",
+      "description":"Please submit the form below, and our Student Success Coordinator will reach out to you directly. Thank you for growing tech talent in the region! You can also take a look at the Graduate List if you want to review the GitHub and LinkedIn profiles of some of our graduates.",
+      "link":"https://codelouisville.org/hire#questions",
+      "icon":"code",
+      "class":"",
+      "color":"#ff3d00"
+    },
+    {
+      "question":"What types of positions would be a good fit for your grads?",
+      "description":"Many of our graduates have gone on to take positions in the industry as junior developers. We currently offer classes in JavaScript, C#/.Net and PHP development. However, their transferable skills allow them to contribute to your team quickly as Business Analysts, Quality Assurance Engineers, Technical Sales Reps, Project Managers or other hybrid roles!",
+      "link":"https://codelouisville.org/hire#questions",
+      "icon":"code",
+      "class":"",
+      "color":"#e91e63"
+    },
+    {
+      "question":"What job placement services do you offer employers?",
+      "description":"We have recently started offering a personalized service to help match employers with grads who would be a good fit for your organization. Please contact us if you're interested in us helping you identify good candidates to talk to! Additionally, we can share job openings via our Slack channel to a private group of graduates who have successfully completed job readiness seminars.",
+      "link":"https://codelouisville.org/hire#questions",
+      "icon":"jobs",
+      "class":"",
+      "color":"#e91e63"
+    },
+    {
+      "question":"How can my employees mentor for your program?",
+      "description":"Mentors from local companies are an integral part of our success, enabling students to have access to those who have worked in the industry and want to share their knowledge and experience. Please visit our Mentors Page for more information or to sign up!",
+      "link":"https://codelouisville.org/hire#questions",
+      "icon":"mentor",
+      "class":"",
+      "color":"#42a5f5"
+    }
+  ]
+}
 }
