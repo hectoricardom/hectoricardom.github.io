@@ -1,7 +1,7 @@
 {
-  "short_name": "hrmFinance",
-  "name": "hrmFinance",
-  "description": "HRM Finance",
+  "short_name": "Grabber",
+  "name": "Grabber",
+  "description": "Grabber",
   "icons": [    
     {
       "src": "favicon.png",
