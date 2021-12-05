@@ -1,0 +1,9 @@
+<svg height="2500" width="2500" xmlns="http://www.w3.org/2000/svg" viewBox="74.644 4 364.089 504">
+    <g fill="none" fill-rule="evenodd">
+        <path d="M108.733 4C89.907 4 74.644 19.256 74.644 38.213V508l147.912-68.267L370.466 508V38.213C370.467 19.256 385.73 4 404.645 4z" fill="#1a73e8"/>
+        <path d="M438.733 38.213C438.733 19.318 423.553 4 404.644 4c-18.915 0-34.177 15.256-34.177 34.213V404.6l68.266 34.133z" fill="firebrick"/>
+    </g>
+    <g fill="none" fill-rule="evenodd" style="transform: translate3d(150px,160px,0) scale(6.5); -ms-transform: translate3d(150px,160px,0) scale(6.5);  -webkit-transform: translate3d(150px,160px,0) scale(6.5);" >
+        <path d="M12 3L1 9L5 11.18V17.18L12 21L19 17.18V11.18L21 10.09V17H23V9L12 3M18.82 9L12 12.72L5.18 9L12 5.28L18.82 9M17 16L12 18.72L7 16V12.27L12 15L17 12.27V16Z" fill="#fff"/>
+    </g>
+</svg>
