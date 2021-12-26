@@ -1,0 +1,48 @@
+{
+  
+  "1":{"en":"Start","es":"Comenzar"},
+  "2":{"en":"Close","es":"Cerrar"},
+  "3":{"en":"we have sent to","es":"le hemos enviado a"},
+  "4":{"en":"the details to complete the operation","es":"los detalles para completar la operacion"},
+  "5":{"en":"Perfect in a few steps you will have the balance in your bitcoin wallet","es":"Perfecto en pocos pasos tendra el saldo en su cartera de bitcoin"},
+  "6":{"en":"Bitcoin price in USD","es":"Precio Bitcoin en USD"},
+  "7":{"en":"Confirm","es":"Confirmar"},
+  "8":{"en":"Send Remittance","es":"Enviar Remesa"},
+  "9":{"en":"Buy Bitcoin","es":"Comprar Bitcoin"},
+
+
+
+  "21":{"en":"Name","es":"Nombre"},
+  "22":{"en":"Card Number","es":"Numero Tarjeta"},
+  "23":{"en":"Email","es":"Correo"},
+  "24":{"en":"Phone","es":"Telefono"},
+  "25":{"en":"Exchange rate","es":"Tasa de Cambio"},
+  "26":{"en":"Remittances to Cuba","es":"Remesas a Cuba"},
+  "27":{"en":"The easiest and fastest way to send remittances to Cuba with Cash or QuickPay in MLC or CUP","es":"La forma más sencilla y rápida para enviar remesas a Cuba con Cash o QuickPay en MLC o CUP"},
+  "28":{"en":"Buy Bitcoin","es":"Comprar Bitcoin"},
+  "29":{"en":"The easiest and fastest way to buy Bitcoin from Cuba","es":"La forma más sencilla y rápida para comprar Bitcoin desde Cuba"},
+
+ 
+  "31":{"en":" Check your order","es":"Verifique su envio"},
+  "32":{"en":"To name","es":"A nombre de"},
+  "33":{"en":"Contact information","es":"Informacion de Contacto"},
+  "34":{"en":"Deposit in","es":"Depositar en"},
+  "35":{"en":"Pay with","es":"Pagar con"},
+  "36":{"en":"Perfect the remittance is one step away from your family","es":"Perfecto la remesa esta a un paso de su familia"},
+  "37":{"en":"You chose to pay with","es":"Usted eligió pagar con"},
+  "38":{"en":"Return to remittances","es":"Volver a remesas"},
+  "39":{"en":"Receive","es":"Recibe"},
+
+
+  "41":{"en":"Amount","es":"Cantidad"},
+
+  "42":{"en":"To name","es":"A nombre de"},
+  "43":{"en":"Contact information","es":"Informacion de Contacto"},
+  "44":{"en":"Deposit in","es":"Depositar en"},
+  "45":{"en":"Pay with","es":"Pagar con"},
+  "46":{"en":"Perfect the remittance is one step away from your family","es":"Perfecto la remesa esta a un paso de su familia"},
+  "47":{"en":"You chose to pay with","es":"Usted eligió pagar con"},
+  "48":{"en":"Return to remittances","es":"Volver a remesas"},
+  "49":{"en":"Receive","es":"Recibe"}
+
+}

@@ -1,0 +1,93 @@
+{
+    "Holguin":{
+       "80100":{
+          "city":"Holguin"
+       },
+       "57200":{
+          "city":"Cacocum"
+       },
+       "82100":{
+          "city":"Gibara"
+       },
+       "84140":{
+          "city":"Velasco"
+       },
+       "83300":{
+          "city":"Rafael Freire"
+       },
+       "82300":{
+          "city":"Banes"
+       },
+       "82400":{
+          "city":"Antilla"
+       },
+       "82500":{
+          "city":"Báguanos"
+       },
+       "82600":{
+          "city":"Calixto García"
+       },
+       "82800":{
+          "city":"San Germán"
+       },
+       "82900":{
+          "city":"Cueto"
+       },
+       "83000":{
+          "city":"Mayarí"
+       },
+       "83100":{
+          "city":"Frank País"
+       },
+       "83200":{
+          "city":"Sagua de Tánamo"
+       },
+       "83310":{
+          "city":"Moa"
+       }
+    },
+    "Habana":{
+       "11300":{
+          "city":"Playa"
+       },
+       "10400":{
+          "city":"Plaza de la Revolución"
+       },
+       "10200":{
+          "city":"Centro Habana"
+       },
+       "10100":{
+          "city":"La Habana Vieja"
+       },
+       "11200":{
+          "city":"Regla"
+       },
+       "10900":{
+          "city":"La Habana del Este"
+       },
+       "11100":{
+          "city":"Guanabacoa"
+       },
+       "11000":{
+          "city":"San Miguel del Padrón"
+       },
+       "10500":{
+          "city":"10 de Octubre"
+       },
+       "10600":{
+          "city":"Cerro"
+       },
+       "11500":{
+          "city":"Mariano"
+       },
+       "17100":{
+          "city":"La Lisa"
+       },
+       "10800":{
+          "city":"Boyeros"
+       },
+       "14000":{
+          "city":"Cotorro"
+       }
+    }
+ }

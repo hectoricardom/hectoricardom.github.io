@@ -1,0 +1,245 @@
+{
+   "aboutMe":"Dedicated and committed software developer, passionate about facing challenges and always willing to learn new technologies, move forward and grow. Concerned about deadlines, love programming, enjoy work and always motivated when it comes to accomplishing goals. Most of my experience is web development related, now with React, Redux, GraphQl, NodeJS and Express.",
+   "educations":[
+      {
+         "logo":"https://firebasestorage.googleapis.com/v0/b/hrm-1128.appspot.com/o/images%2Fuho_logo.jpg?alt=media&token=30127a93-cf71-4254-9a46-2473bac69d48",
+         "startYear":2005,
+         "endYear":2012,
+         "schoolName":"University Holguin, Cuba",
+         "abbreviation":"UHO",
+         "description":"Accounting and Finance",
+         "degree":"Bachelor Degree"
+      },
+      {
+         "logo":"https://firebasestorage.googleapis.com/v0/b/hrm-1128.appspot.com/o/images%2Fcodelouisville22.png?alt=media&token=28af1bf1-388d-40e3-94bc-37d015f0d80d",
+         "startYear":null,
+         "endYear":2019,
+         "issuedDate":"Jun 2019",
+         "schoolName":"Code Louisville",
+         "description":"Programming in HTML5 with JavaScript and CSS3",
+         "degree":"Certifications",
+         "imageProof":"https://firebasestorage.googleapis.com/v0/b/hrm-1128.appspot.com/o/images%2FHR%20Front%20End.pdf?alt=media&token=b0921b99-ade8-4645-9119-2bdf8a303db4"
+      },
+      {
+         "logo":"https://firebasestorage.googleapis.com/v0/b/hrm-1128.appspot.com/o/images%2Fcodelouisville22.png?alt=media&token=28af1bf1-388d-40e3-94bc-37d015f0d80d",
+         "startYear":null,
+         "endYear":2019,
+         "issuedDate":"Oct 2019",
+         "schoolName":"Code Louisville",
+         "description":"React",
+         "degree":"Certifications",
+         "imageProof":"https://firebasestorage.googleapis.com/v0/b/hrm-1128.appspot.com/o/images%2FHR%20JavaScript.pdf?alt=media&token=0ccc52c4-db84-4001-96b6-c22fd1d96718"
+      }
+   ],
+   "skills":{
+      "frontLevel":[
+         [
+            "Technology",
+            "Level"
+         ],
+         [
+            "HTML5",
+            5
+         ],
+         [
+            "Javascript",
+            4.3
+         ],
+         [
+            "CCS",
+            4.5
+         ],
+         [
+            "React",
+            4.25
+         ],
+         [
+            "Redux",
+            4
+         ],
+         [
+            "JSON",
+            5
+         ]
+      ],
+      "frontExperience":[
+         [
+            "Technology",
+            "Years",
+            {
+               "role":"style"
+            }
+         ],
+         [
+            "HTML5",
+            7,
+            "rgb(21, 100, 191,1)"
+         ],
+         [
+            "Javascript",
+            6,
+            "rgb(220, 57, 18)"
+         ],
+         [
+            "CCS",
+            7,
+            "rgb(255, 153, 0)"
+         ],
+         [
+            "React",
+            4,
+            "rgb(16, 150, 24)"
+         ],
+         [
+            "Redux",
+            3,
+            "rgb(153, 0, 153)"
+         ],
+         [
+            "JSON",
+            5,
+            "rgb(0, 153, 198)"
+         ]
+      ],
+      "backLevel":[
+         [
+            "Technology",
+            "Level"
+         ],
+         [
+            "Node",
+            4
+         ],
+         [
+            "Express",
+            4
+         ],
+         [
+            "GraphQL",
+            4
+         ],
+         [
+            "RestApi",
+            4.5
+         ],
+         [
+            "SQL",
+            4
+         ],
+         [
+            "No-SQL",
+            4
+         ]
+      ],
+      "backExperience":[
+         [
+            "Technology",
+            "Years",
+            {
+               "role":"style"
+            }
+         ],
+         [
+            "Node",
+            6,
+            "rgb(21, 100, 191,1)"
+         ],
+         [
+            "Express",
+            6,
+            "rgb(220, 57, 18)"
+         ],
+         [
+            "GraphQL",
+            4,
+            "rgb(255, 153, 0)"
+         ],
+         [
+            "RestApi",
+            6,
+            "rgb(16, 150, 24)"
+         ],
+         [
+            "SQL",
+            7,
+            "rgb(153, 0, 153)"
+         ],
+         [
+            "No-SQL",
+            5,
+            "rgb(0, 153, 198)"
+         ]
+      ]
+   },
+   "projects":{
+      "QvaMarkets":{
+         "about":"This project is a E-Commerce with inventory and product movements, order management and sales reports",
+         "role":"Built and maintained with",
+         "logo":"https://firebasestorage.googleapis.com/v0/b/hrm-1128.appspot.com/o/images%2FqvaMarket_logo2.png?alt=media&token=094bfaeb-e5f7-4e81-868c-0a511b05bc41",
+         "technologies":{
+            "front end":[
+               ["React",80],
+               ["Redux",20], 
+               ["GraphQL",20],
+               ["Google Cloud",5]
+            ],
+            "back end":[
+               ["NodeJs",80],
+               ["Express",80], 
+               ["GraphQL",50],
+               ["JSON",20]
+            ],
+            "deploy":[
+               ["AWS",80],
+               ["Nginx",5], 
+               ["Google Cloud",15]
+            ]
+         }
+      }
+   },
+   "extraTech":["AWS","Firebase","Google Cloud","React-Native","Angular","Nginx"],
+   "technologies":{
+      "AWS":{
+         "logo":"https://firebasestorage.googleapis.com/v0/b/hrm-1128.appspot.com/o/images%2Faws.webp?alt=media&token=e203f049-968a-4cfd-b96a-92c34c0d3ad3"        
+      },
+      "Firebase":{
+         "logo":"https://firebasestorage.googleapis.com/v0/b/hrm-1128.appspot.com/o/images%2Ffirebase.webp?alt=media&token=635925fb-95db-45ab-9aa5-d826016cfcca"
+      },
+      "Google Cloud":{
+         "logo":"https://firebasestorage.googleapis.com/v0/b/hrm-1128.appspot.com/o/images%2FgoogleCloud.webp?alt=media&token=648966ed-155e-4936-8e99-c15f43707d80"
+      },
+      "React-Native":{
+         "logo":"https://firebasestorage.googleapis.com/v0/b/hrm-1128.appspot.com/o/images%2Freact.webp?alt=media&token=c982da8d-7f76-407f-bfa7-9ae945d176ce"
+      },
+      "React":{
+         "logo":"https://firebasestorage.googleapis.com/v0/b/hrm-1128.appspot.com/o/images%2Freact.webp?alt=media&token=c982da8d-7f76-407f-bfa7-9ae945d176ce"
+      },
+      "Angular":{
+         "logo":"https://firebasestorage.googleapis.com/v0/b/hrm-1128.appspot.com/o/images%2Fangular.webp?alt=media&token=7f45a516-950f-4a03-9fc4-ec0986e1e295"
+      },
+
+
+      "Redux":{
+         "logo":"https://firebasestorage.googleapis.com/v0/b/hrm-1128.appspot.com/o/images%2Fredux.webp?alt=media&token=7b0135fe-9000-4726-a031-65c6e1ebc383"
+      },
+      "NodeJs":{
+         "logo":"https://firebasestorage.googleapis.com/v0/b/hrm-1128.appspot.com/o/images%2FnodeJs.webp?alt=media&token=bb6c2a92-a457-45e7-8031-9a3beed14858"
+      },
+      "GraphQL":{
+         "logo":"https://firebasestorage.googleapis.com/v0/b/hrm-1128.appspot.com/o/images%2FgraphQl.webp?alt=media&token=a93e11d0-4ccc-476e-9f60-07ae74b14f36"
+      },
+      "JSON":{
+         "logo":"https://firebasestorage.googleapis.com/v0/b/hrm-1128.appspot.com/o/images%2Fjson.webp?alt=media&token=71f409b6-5536-4790-8dd9-f96e5bc42771"
+      },
+      "Nginx":{
+         "logo":"https://firebasestorage.googleapis.com/v0/b/hrm-1128.appspot.com/o/images%2Fnginx.webp?alt=media&token=26d2d77c-1277-427b-b982-37016046e59c"
+      },
+      "Express":{
+         "logo":"https://firebasestorage.googleapis.com/v0/b/hrm-1128.appspot.com/o/images%2Fexpress.webp?alt=media&token=73b1b878-b725-4366-8f80-03949120e5dd"
+      }
+      
+   }
+
+
+
+}
