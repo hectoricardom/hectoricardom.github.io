@@ -103,11 +103,12 @@
     "111":"Utilizar precio de costo",
     "112": "Enviar",
     "113": "Borrar",
-    "114":"Debe estar logueado para hacer un reseña",
+    "114":  "Debe estar logueado para hacer un reseña",
 
     "120": "Crear reseña",
     "121": "Calificación general",
     "122": "Agregar una opinión escrita",
     "123": "¿Qué le gustó o no le gustó?",
-    "124": "Reseñas"
+    "124": "Reseñas",
+    "125": "Cita"
 }
