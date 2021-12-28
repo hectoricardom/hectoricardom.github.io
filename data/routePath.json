@@ -68,12 +68,10 @@
        "lbl":9
     },
     {
-       "name":"deliveries",
-       "icon":"moped",
-       "path":"/deliveries",
-       "onlyDrivers":true,
-       "isR":true,
-       "lbl":104
+      "name":"appointments",
+      "icon":"moped",
+      "path":"/appointments",
+      "lbl":104
     },
     {
        "name":"cerrar sesión",
