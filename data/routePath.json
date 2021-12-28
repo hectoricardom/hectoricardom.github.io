@@ -69,9 +69,9 @@
     },
     {
       "name":"appointments",
-      "icon":"moped",
+      "icon":"calendar",
       "path":"/appointments",
-      "lbl":104
+      "lbl":125
     },
     {
        "name":"cerrar sesión",
