@@ -63,15 +63,14 @@
        "name":"receivers",
        "icon":"user_receivers",
        "path":"/receivers",
-       "isAdmin":true,
-       "isR":true,
        "lbl":9
     },
     {
       "name":"appointments",
       "icon":"calendar",
       "path":"/appointments",
-      "lbl":125
+      "lbl":125,
+      "isAdmin":true
     },
     {
        "name":"cerrar sesión",
